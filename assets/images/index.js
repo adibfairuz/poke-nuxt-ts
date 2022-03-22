@@ -1,0 +1,5 @@
+export const pokemonBallImage = "https://firebasestorage.googleapis.com/v0/b/pokemon-project-edaca.appspot.com/o/pokeball.png?alt=media&token=67eaff2f-a26f-4cb2-9ea8-e9b64f896ee9"
+export const pokemonBallSmallImage = "https://firebasestorage.googleapis.com/v0/b/pokemon-project-edaca.appspot.com/o/pokeball_small.png?alt=media&token=ae126c68-4667-4b5e-bc67-e2a0fdf7de6b"
+export const pikachuImage = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+export const pikachuSmallImage = "https://firebasestorage.googleapis.com/v0/b/pokemon-project-edaca.appspot.com/o/pikachu_small.png?alt=media&token=10fb4d5b-99ad-4571-8de4-10b8cd0664ba"
+export const pikachuAnimation = "https://assets8.lottiefiles.com/private_files/lf30_rBOODA.json"
