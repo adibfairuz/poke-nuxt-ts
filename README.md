@@ -1,3 +1,6 @@
+## Demo
+https://poke-nuxt-typescript.herokuapp.com/
+
 ## Stack
 
 - [Nuxt.js](https://nuxtjs.org/)
